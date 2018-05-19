@@ -1,0 +1,16 @@
+node是一个平台。
+
+
+1.自带http服务器。
+2.Xampp~~php.ini
+3.自带js运行(编译)环境。
+4.Chrome V8引擎
+5.API---就是常见的方法函数。
+6.CommonJS规范。
+7.Node.js的JavaScript引擎是V8。
+8.node+java---node做中间层。
+9.缓存机制---登录问题 sessionId
+            node做中间层
+10.基于社交网络的大规模Web应用。
+            高并发的解决方案。
+11.复习require.js               
