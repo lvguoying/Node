@@ -1,0 +1,16 @@
+{
+    "name": "pkg",
+    "description": "this is a node package",
+    "version": "*",
+    "maintainers": [
+        {
+            "name": "zhangsan",
+            "email": "zs@163.com"
+        },
+        {}
+    ],
+    "bugs": "aa.@163.com",
+    "dependencies": {
+        "mysql": "*"
+    }
+}
