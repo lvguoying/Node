@@ -1,1 +1,7 @@
-你好世界！！！！
+你好世界
+contact()
+indexOf()
+charAt()
+createDocumentFragment() 创建一个DoM片段
+create
+双向数据绑定-->object.defineProperty()
