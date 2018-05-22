@@ -11,6 +11,8 @@
     ],
     "bugs": "aa.@163.com",
     "dependencies": {
-        "mysql": "*"
+        "lodash": "^4.17.10",
+        "mysql": "*",
+        "save": "^2.3.2"
     }
 }
