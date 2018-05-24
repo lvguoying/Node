@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<div>请输入:</div>
+<body>
+    <script>
+
+        var str = "AAA";
+        var I = 1,
+            V = 5,
+            X = 10,
+            L = 50,
+            C = 100,
+            D = 500,
+            M = 1000,
+            glob  = I,
+            prok = V,
+            pish = X,
+            tegj = L
+            
+            
+            // alert(V)
+        var arr = {I,V,X,L,C,D,M}
+        var sum =0;
+        for(let i=0;i<str.length;i++){
+        //   console.log(str[i],str[i]); 
+        // if(str[i]==) 
+        if(arr[str[i]]>=arr[str[i+1]] || i+1 == str.length){
+            // arr[str[i]]+arr[str[i]]
+            sum += arr[str[i]]
+        }else {
+            // arr[str[i]]-arr[str[i]]
+            sum += (-arr[str[i]]+arr[str[i+1]])
+            i++;
+        
+        }
+        }
+        console.log(sum);
+        
+    </script>
+</body>
+
+</html>
